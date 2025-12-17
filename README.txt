@@ -1,0 +1,1 @@
+BMI (Body Mass Index) to wskaźnik masy ciała, czyli stosunek masy (w kg) do kwadratu wzrostu (w m²), służący do wstępnej oceny, czy waga jest odpowiednia do wzrostu i jakie jest ryzyko chorób związanych z nadwagą (np. cukrzyca, miażdżyca). Jest prostym, choć niedoskonałym narzędziem, które pomaga w kategoryzacji: niedowaga, waga prawidłowa, nadwaga, otyłość (I, II, III stopnia).
